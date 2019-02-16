@@ -9,13 +9,13 @@ package dp.c4;
  *
  * @author fseixas
  */
-public class PizzaTestDrive {
-    
+public class DPC4 {
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        PizzaStore nyStore = new NYPizzaStore();
-        
-        Pizza pizza = nyStore.orderPizza("cheese");
-        System.out.println("Ethan ordered a " + pizza.getName() + "\n");
-        
+        // TODO code application logic here
     }
+    
 }
